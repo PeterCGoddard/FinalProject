@@ -1,7 +1,7 @@
 Name: Peter Goddard
 Project Overview: Node.js Express Q&A using 3-tier architecture
 Functionality: Three Pages, with the first page including links to the other Pages  
-Technologies Used:  node.js, express, mongDB, react, github
+Technologies Used:  node.js, express, mongoDB, react, github
 
 Features
 
