@@ -10,4 +10,4 @@ Features
 3. Post questions inside categories
 4. View and answer questions
 
-Hosting Site: https://petercgoddard.github.io/Project4
+Hosting Site: https://petercgoddard.github.io/FinalProject
