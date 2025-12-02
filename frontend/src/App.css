@@ -1,0 +1,68 @@
+.auth-container
+{
+  max-width: 21.875rem;
+  margin: 3.125rem auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.938rem;
+  font-family: Arial, sans-serif;
+}
+
+.auth-container input
+{
+  width: 100%;
+  padding: 0.625rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  border: 0.063rem solid #999;
+}
+
+.auth-container button
+{
+  padding: 0.625rem;
+  width: 100%;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  border: 0.063rem solid #888;
+}
+
+.error
+{
+  color: red;
+  font-size: 0.875rem;
+}
+
+@media (max-width: 56.25rem)
+{
+  .auth-container
+  {
+    max-width: 85%;
+    margin: 2.5rem auto;
+  }
+}
+
+@media (max-width: 37.5rem)
+{
+  .auth-container
+  {
+    max-width: 90%;
+    margin: 2rem auto;
+  }
+
+  .auth-container input
+  {
+    font-size: 0.95rem;
+    padding: 0.55rem;
+  }
+
+  .auth-container button
+  {
+    padding: 0.6rem;
+    font-size: 0.95rem;
+  }
+
+  .error
+  {
+    font-size: 0.8rem;
+  }
+}
