@@ -11,4 +11,6 @@ Features
 3. Post questions inside categories
 4. View and answer questions
 
-Hosting Site: https://petercgoddard.github.io/FinalProject
+Code Location: https://github.com/PeterCGoddard/FinalProject
+
+Hosting Site: https://
