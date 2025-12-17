@@ -1,6 +1,6 @@
 Name: Peter Goddard Project Overview: Node.js Express Q&A using 3-tier architecture
 
-Functionality: Login screen with registration; once registered, backend includes questions and catgories
+Functionality: Login screen with registration; once registered, backend includes questions and categories
 
 Technologies Used: node.js, express, mongoDB, react, github
 
